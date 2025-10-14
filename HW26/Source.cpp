@@ -1,5 +1,3 @@
-// Односвязный список
-
 #include <iostream>
 using namespace std;
 
